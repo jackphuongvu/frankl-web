@@ -51,7 +51,8 @@ const HomePage = () => {
 
           <div className="quick-intro">
 
-            <div className='flex h-screen -mt-20 justify-center flex-col items-center'>
+            <div className=''>
+
 
             </div>
 
