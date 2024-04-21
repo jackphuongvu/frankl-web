@@ -7,6 +7,9 @@ body {
     height: 100vh;
     position: relative;
 }
+.hero-video {
+    height: 100%;
+}
 
 video {
     position: absolute;
